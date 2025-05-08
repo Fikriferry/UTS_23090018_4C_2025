@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "681c0c0d9c73537c31d8007c"
+  },
+  "nama": "Laptop",
+  "harga": 8500000,
+  "stok": 10
+},
+{
+  "_id": {
+    "$oid": "681c0c0d9c73537c31d8007e"
+  },
+  "nama": "Meja",
+  "bahan": "Kayu",
+  "panjang_cm": 120
+}]
